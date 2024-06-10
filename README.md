@@ -56,15 +56,15 @@ To compile and run the program:
     ```
 
 ## Example Output
-Asymmetric astronomer 1 picked up the right chopstick
-Asymmetric astronomer 1 picked up the left chopstick
-Asymmetric astronomer 1 is eating
-Asymmetric astronomer 2 picked up the right chopstick
-Asymmetric astronomer 2 picked up the left chopstick
-Asymmetric astronomer 2 is eating
-Symmetric astronomer 3 picked up the left chopstick
-Symmetric astronomer 3 picked up the right chopstick
-Symmetric astronomer 3 is eating
+ - Asymmetric astronomer 1 picked up the right chopstick
+ - Asymmetric astronomer 1 picked up the left chopstick
+ - Asymmetric astronomer 1 is eating
+ - Asymmetric astronomer 2 picked up the right chopstick
+ - Asymmetric astronomer 2 picked up the left chopstick
+ - Asymmetric astronomer 2 is eating
+ - Symmetric astronomer 3 picked up the left chopstick
+ - Symmetric astronomer 3 picked up the right chopstick
+ - Symmetric astronomer 3 is eating
 
 ## Notes
 
