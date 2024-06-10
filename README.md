@@ -66,4 +66,12 @@ Symmetric astronomer 3 picked up the left chopstick
 Symmetric astronomer 3 picked up the right chopstick
 Symmetric astronomer 3 is eating
 
+## Notes
+
+- The output will vary on each run due to the random placement of astronomers and the stochastic nature of their actions.
+- The program runs indefinitely. You can stop it by pressing `Ctrl+C`.
+
+
+
+
 
