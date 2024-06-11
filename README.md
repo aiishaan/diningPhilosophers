@@ -40,9 +40,9 @@ The astronomers alternate between thinking and eating, with their actions being 
 
 To compile and run the program:
 
-1. Ensure you have a C compiler (e.g., `gcc`) installed on your system.
-2. Save the source code to a file, say `dining_astronomers.c`.
-3. Open a terminal and navigate to the directory containing `dining_astronomers.c`.
+1. Ensure you have a C compiler (e.g., `gcc`) installed on your system
+2. Save the source code to a file, say `dining_astronomers.c`
+3. Open a terminal and navigate to the directory containing `dining_astronomers.c`
 4. Compile the code:
 
     ```sh
