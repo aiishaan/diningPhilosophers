@@ -32,9 +32,9 @@ The astronomers alternate between thinking and eating, with their actions being 
    - Each astronomer is represented by a thread that executes the `philosopher` function.
 
 3. **Philosopher Function:**
-   - Continuously attempts to pick up chopsticks based on whether they are symmetric or asymmetric.
-   - Eats if both chopsticks are successfully acquired.
-   - Thinks if unable to acquire chopsticks.
+   - Continuously attempts to pick up chopsticks based on whether they are symmetric or asymmetric
+   - Eats if both chopsticks are successfully acquired
+   - Thinks if unable to acquire chopsticks
 
 ## Compilation and Execution
 
