@@ -29,7 +29,7 @@ The astronomers alternate between thinking and eating, with their actions being 
    - Randomly place astronomers around the table, ensuring the specified number of asymmetric astronomers
 
 2. **Thread Creation:**
-   - Each astronomer is represented by a thread that executes the `philosopher` function.
+   - Each astronomer is represented by a thread that executes the `philosopher` function
 
 3. **Philosopher Function:**
    - Continuously attempts to pick up chopsticks based on whether they are symmetric or asymmetric
