@@ -68,7 +68,7 @@ To compile and run the program:
 
 ## Notes
 
-- The output will vary on each run due to the random placement of astronomers and the stochastic nature of their actions.
+- The output will vary on each run due to the random placement of astronomers and the stochastic nature of their actions
 - The program runs indefinitely. You can stop it by pressing `Ctrl+C`
 
 
