@@ -4,6 +4,7 @@ This project simulates the classic "Dining Philosophers" problem with a twist, w
 
 ## Author
 
+
 - **Aishan Irfan**
 
 ## Overview
