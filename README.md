@@ -27,7 +27,7 @@ The astronomers alternate between thinking and eating, with their actions being 
 
 1. **Initialization:**
    - Initialize the mutexes for chopsticks.
-   - Randomly place astronomers around the table, ensuring the specified number of asymmetric astronomers
+   - Randomly place astronomers around the table, ensuring the specified number of asymmetric astronomers.
 
 2. **Thread Creation:**
    - Each astronomer is represented by a thread that executes the `philosopher` function
