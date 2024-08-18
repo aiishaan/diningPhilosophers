@@ -26,7 +26,7 @@ The astronomers alternate between thinking and eating, with their actions being 
 ## Program Flow
 
 1. **Initialization:**
-   - Initialize the mutexes for chopsticks
+   - Initialize the mutexes for chopsticks.
    - Randomly place astronomers around the table, ensuring the specified number of asymmetric astronomers
 
 2. **Thread Creation:**
