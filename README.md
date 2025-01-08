@@ -1,6 +1,6 @@
 # Dining Astronomers
 
-This project simulates the classic "Dining Philosophers" problem with a twist, where astronomers (philosophers) can be either symmetric or asymmetric in their approach to acquiring chopsticks. The program uses POSIX threads and mutexes to manage concurrent execution and synchronization of astronomers
+This project simulates the classic "Dining Philosophers" problem with a twist, where astronomers (philosophers) can be either symmetric or asymmetric in their approach to acquiring chopsticks. The program uses POSIX threads and mutexes to manage concurrent execution and synchronization of astronomers.
 
 ## Author
 
